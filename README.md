@@ -19,5 +19,4 @@ Chapter 1 code_Project_6 The Third part 3 of "The Arduino World Book"
     </a>
 </p>
 
-![271801785_344374427505649_2176683891817719787_n](https://user-images.githubusercontent.com/35774039/153207660-6489f286-a3e2-4aab-9062-a63ac19385b3.jpg)
 
